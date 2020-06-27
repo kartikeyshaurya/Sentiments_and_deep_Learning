@@ -23,6 +23,34 @@ This Project is mainly a part of the udacity Curriculum and done under their gui
 ![](readme/pytorch.jpeg)
 
 # files 
+├── readme
+│   ├── matplot.jpg
+│   ├── Numpy.png
+│   ├── pandas.png
+│   ├── python.jpg
+│   ├── pytorch.jpeg
+│   ├── sagemaker.jpeg
+│   ├── sentiment.jpg
+│   ├── stackoverflow.png
+│   ├── udacity.jpg
+│   └── udemy.jpg
+├── README.md
+├── SageMaker Project .ipynb
+├── serve
+│   ├── model.py
+│   ├── predict.py
+│   ├── requirements.txt
+│   └── utils.py
+├── train
+│   ├── model.py
+│   ├── requirements.txt
+│   └── train.py
+├── Web App Diagram.svg
+└── website
+    └── index.html
+
+
+
 
 # contributors
 @kartikeyshaurya

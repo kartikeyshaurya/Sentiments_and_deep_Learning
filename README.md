@@ -23,19 +23,12 @@ This Project is mainly a part of the udacity Curriculum and done under their gui
 ![](readme/pytorch.jpeg)
 
 # files 
-├── readme
-│   ├── matplot.jpg
-│   ├── Numpy.png
-│   ├── pandas.png
-│   ├── python.jpg
-│   ├── pytorch.jpeg
-│   ├── sagemaker.jpeg
-│   ├── sentiment.jpg
-│   ├── stackoverflow.png
-│   ├── udacity.jpg
-│   └── udemy.jpg
+
+```
+├── readme   -- all the readme asset
+|
 ├── README.md
-├── SageMaker Project .ipynb
+├── SageMaker Project .ipynb       # main notebook 
 ├── serve
 │   ├── model.py
 │   ├── predict.py
@@ -49,8 +42,7 @@ This Project is mainly a part of the udacity Curriculum and done under their gui
 └── website
     └── index.html
 
-
-
+```
 
 # contributors
 @kartikeyshaurya
@@ -62,11 +54,13 @@ This Project is mainly a part of the udacity Curriculum and done under their gui
 ![](readme/udacity.jpg)
 <br>
 
-Sometime  i really face to problems that i cannot able to solve alone then i move to stack overflow
+Sometime  i really face silly and diffucult  problems that i cannot able to solve alone then i move to stack overflow
 
 ![](readme/stackoverflow.png)
 
+
+
 # License
-for the license part , i donot want to carry any right .<br>
-rightfully the excercise belongs to Udacity so see there <br>
+for the license part , i donot want to carry any right .
+rightfully the excercise belongs to Udacity so see there
 license.

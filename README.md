@@ -73,7 +73,7 @@ used this medium [article](https://medium.com/data-science-bootcamp/amazon-sagem
 
 
 [@youtube](https://www.youtube.com/)<br>
-i used this youtube Channel[@youtube](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) for external reference 
+i used this youtube Channel[@Kris Nayak](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) for external reference 
 
 
 
